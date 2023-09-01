@@ -1,18 +1,47 @@
+# My Portfolio
 
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shreyaspathak11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shreyaspathak11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaspathak11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Introduction
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shreyaspathak11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Hello! Welcome to my GitHub repository. I'm an enthusiastic and dedicated newcomer to the world of web development, with a keen interest in technological innovation. I'm proficient in Python's data structures and algorithms, and I'm adept at analytical thinking and solving intricate problems. I'm also passionate about exploring the field of web development and aspire to become a Full Stack Developer. I'm eager to embrace challenges, learn collaboratively, and grow in expertise.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shreyaspathak11&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
+## Skills & Proficiencies
 
----
-[![](https://visitcount.itsvg.in/api?id=shreyaspathak11&icon=0&color=0)](https://visitcount.itsvg.in)
+### Programming Languages
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Python
+- C
+- JavaScript
+
+### Frontend
+
+- Next.js
+- React.js
+- HTML
+- CSS
+
+### Backend
+
+- Express.js
+- Node.js
+- Mongoose
+- MongoDB
+- Postman
+
+## Strengths
+
+- Collaboration: I thrive in team environments and enjoy working with others to achieve common goals.
+- Leadership: I'm not afraid to take the lead when necessary and provide guidance to achieve success.
+- Quick Learning: I have a strong ability to quickly grasp new concepts and technologies.
+- Problem-Solving: I enjoy tackling complex problems and finding innovative solutions.
+- Self-Motivated: I'm driven to excel and continuously improve my skills.
+- Communication: I'm an effective communicator, both in written and verbal forms, ensuring clarity in project discussions and updates.
+
+## Projects
+
+I'm actively working on various projects that demonstrate my skills in web development and data structures and algorithms using the MERN (MongoDB, Express.js, React.js, Node.js) stack. You can find my project repositories here on my GitHub profile.
+
+## Contact
+
+Feel free to reach out to me if you have any questions, suggestions, or if you'd like to collaborate on a project. You can contact me through GitHub or via email at [your@email.com].
+
+Thank you for visiting my GitHub repository. I look forward to connecting with you and exploring the world of web development together!
