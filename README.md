@@ -6,5 +6,5 @@ Check out my ongoing projects that showcase my web development and data structur
 ## Visit my [PORTFOLIO](<https://shreyas-pathak-portfolio.vercel.app/>) for a detailed look.
 
 ## Get in Touch
-Have questions, suggestions, or looking to collaborate? Reach out! Whether through GitHub or via email at shreyaspathak.ofc@gmail.com, I'm excited to connect and explore the world of web development together.
+Have questions, suggestions, or looking to collaborate? Reach out! Whether through [Contact Form](<https://contact-form-client.vercel.app/>) or via email at shreyaspathak.ofc@gmail.com, I'm excited to connect and explore the world of web development together.
 Thanks for stopping by! Looking forward to our coding adventures! 🚀
