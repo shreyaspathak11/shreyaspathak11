@@ -1,7 +1,7 @@
 # Hola amigos! 👋
-Welcome to my GitHub space! I'm a passionate newcomer to web development, driven by a curiosity for technological innovation. Proficient in Python's data structures and algorithms, I enjoy solving complex problems with analytical thinking. Currently exploring the realms of web development, my goal is to evolve into a Full Stack Developer. I thrive on challenges, collaborative learning, and continuous growth.
+Welcome to my GitHub space! I'm a passionate developer, driven by a curiosity for technological innovation. Proficient in Python's data structures and algorithms, I enjoy solving complex problems with analytical thinking. Currently exploring the realms of software engineering, my goal is to learn as much as I can. I thrive on challenges, collaborative learning, and continuous growth.
 
-Check out my ongoing projects that showcase my web development and data structures skills using the MERN stack (MongoDB, Express.js, React.js, Node.js). 
+Check out my ongoing projects that showcase my software engineering and data structures skills using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Flutter(Dart) . 
 
 ## Visit my [PORTFOLIO](<https://shreyas-pathak-portfolio.vercel.app/>) for a detailed look.
 
