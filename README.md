@@ -1,10 +1,40 @@
-# Hola amigos! 👋
-Welcome to my GitHub space! I'm a passionate developer, driven by a curiosity for technological innovation. Proficient in Python's data structures and algorithms, I enjoy solving complex problems with analytical thinking. Currently exploring the realms of software engineering, my goal is to learn as much as I can. I thrive on challenges, collaborative learning, and continuous growth.
 
-Check out my ongoing projects that showcase my software engineering and data structures skills using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Flutter(Dart) . 
+# Hi, I'm Shreyas Pathak 👋
 
-## Visit my [PORTFOLIO](<https://shreyas-pathak-portfolio.vercel.app/>) for a detailed look.
+Software developer who enjoys turning ideas into scalable products and solving real problems with clean, efficient code.
 
-## Get in Touch
-Have questions, suggestions, or looking to collaborate? Reach out! Whether through [Contact Form](<https://contact-form-client.vercel.app/>) or via email at shreyaspathak.ofc@gmail.com, I'm excited to connect and explore the world of web development together.
-Thanks for stopping by! Looking forward to our coding adventures! 🚀
+I work across **Full Stack Web and Mobile**, with strong fundamentals in **Data Structures & Algorithms** and a focus on building practical, production-ready applications.
+
+
+## What I Do
+
+* Build full-stack applications using **MERN (MongoDB, Express, React, Node.js)**
+* Develop cross-platform mobile apps with **Flutter (Dart)**
+* Write efficient solutions using **Python (DSA & problem solving)**
+* Design systems with performance, scalability, and clean architecture in mind
+
+
+## Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python, Dart
+**Frontend:** React, Next.js
+**Backend:** Node.js, Express
+**Mobile:** Flutter, React Native
+**Database:** MongoDB, SQL
+**Tools:** Git, Firebase, Cloud services
+
+
+## Featured Work
+
+Check out my repositories to see projects involving:
+
+* Full-stack web applications
+* Mobile apps with real-world features
+* API design and integration
+* Clean architecture and scalable patterns
+
+Let's connect at: **[shreyaspathak.ofc@gmail.com](mailto:shreyaspathak.ofc@gmail.com)**
+
+Read my Blogs at: **[blog.shreyaspathak.com](blog.shreyaspathak.com)**
+
+I enjoy collaborating, learning, and building meaningful tech. If you're working on something interesting, let's talk.
