@@ -13,7 +13,6 @@ I work across **Full Stack Web and Mobile**, with strong fundamentals in **Data 
 * Write efficient solutions using **Python (DSA & problem solving)**
 * Design systems with performance, scalability, and clean architecture in mind
 
-
 ## Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python, Dart
@@ -23,18 +22,8 @@ I work across **Full Stack Web and Mobile**, with strong fundamentals in **Data 
 **Database:** MongoDB, SQL
 **Tools:** Git, Firebase, Cloud services
 
+Let's connect at **[shreyaspathak.ofc@gmail.com](mailto:shreyaspathak.ofc@gmail.com)**
 
-## Featured Work
-
-Check out my repositories to see projects involving:
-
-* Full-stack web applications
-* Mobile apps with real-world features
-* API design and integration
-* Clean architecture and scalable patterns
-
-Let's connect at: **[shreyaspathak.ofc@gmail.com](mailto:shreyaspathak.ofc@gmail.com)**
-
-Read my Blogs at: **[blog.shreyaspathak.com](blog.shreyaspathak.com)**
+Read my Blogs at **[https://blog.shreyaspathak.com](https://blog.shreyaspathak.com/)**
 
 I enjoy collaborating, learning, and building meaningful tech. If you're working on something interesting, let's talk.
