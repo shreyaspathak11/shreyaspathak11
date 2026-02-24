@@ -7,15 +7,15 @@ I work across **Full Stack Web and Mobile**, with strong fundamentals in **Data 
 
 I believe in writing clean code and solving problems in best and easiest possible way.
 
-> **Languages:** JavaScript, TypeScript, Python, Dart
+ **Languages:** JavaScript, TypeScript, Python, Dart
 
-> **Frontend:** React, Next.js
+ **Frontend:** React, Next.js
 
-> **Backend:** Node.js, Express
+ **Backend:** Node.js, Express
 
-> **Mobile:** Flutter, React Native
+ **Mobile:** Flutter, React Native
 
-> **Database:** MongoDB, SQL
+ **Database:** MongoDB, SQL
 
 > **Tools:** Git, Firebase, Cloud services
 
