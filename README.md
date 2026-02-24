@@ -17,7 +17,7 @@ I believe in writing clean code and solving problems in best and easiest possibl
 
  **Database:** MongoDB, SQL
 
-> **Tools:** Git, Firebase, Cloud services
+ **Tools:** Git, Firebase, Cloud services
 
 Let's connect at **[shreyaspathak.ofc@gmail.com](mailto:shreyaspathak.ofc@gmail.com)**
 
