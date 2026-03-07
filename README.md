@@ -20,7 +20,7 @@ I believe in writing clean code and solving problems in best and easiest possibl
  **Tools:** Git, Firebase, Cloud services
 
 Let's connect at **[shreyaspathak.ofc@gmail.com](mailto:shreyaspathak.ofc@gmail.com)**
-
+Visit my portfolio at **[https://shreyaspathak.com](https://shreyaspathak.com/)**
 Read my Blogs at **[https://blog.shreyaspathak.com](https://blog.shreyaspathak.com/)**
 
 I enjoy collaborating, learning, and building meaningful tech. If you're working on something interesting, let's talk.
