@@ -1,26 +1,32 @@
-
 # Hi, I'm Shreyas Pathak 👋
 
-Software developer who enjoys turning ideas into scalable products and solving real problems with clean, efficient code.
+Software Engineer passionate about building intelligent, scalable systems and turning complex problems into practical solutions.
 
-I work across **Full Stack Web and Mobile**, with strong fundamentals in **Data Structures & Algorithms** and a focus on building practical, production-ready applications.
+My interests lie at the intersection of **Software Engineering and Artificial Intelligence**. I enjoy exploring how LLMs, Agentic AI, distributed systems, and modern backend architectures can solve real-world problems.
 
-I believe in writing clean code and solving problems in best and easiest possible way.
+**💻 Tech Stack**
 
- **Languages:** JavaScript, TypeScript, Python, Dart
+- **Languages:** Python, TypeScript, JavaScript, SQL, Dart
+- **AI & Agentic AI:** LLMs, RAG, LangChain, MCP, Tool Calling, Prompt Engineering, PyTorch
+- **Backend & Systems:** FastAPI, Node.js, Express.js, REST APIs, Microservices, Apache Kafka
+- **Databases:** PostgreSQL, MongoDB, Redis, ChromaDB, SQLite
+- **Cloud & DevOps:** AWS, GCP, Docker, GitHub Actions, CI/CD
+- **Development:** React, Next.js, Flutter, React Native
 
- **Frontend:** React, Next.js
+**🚀 What I enjoy building**
 
- **Backend:** Node.js, Express
+- AI-powered applications and autonomous agent workflows.
+- Scalable backend systems and distributed architectures.
+- Intelligent automation for complex business processes.
+- Applications that solve meaningful real-world problems.
 
- **Mobile:** Flutter, React Native
+Beyond development, I enjoy solving algorithmic problems, exploring emerging technologies, and continuously learning how things work under the hood.
 
- **Database:** MongoDB, SQL
+📫 **Let's connect**
 
- **Tools:** Git, Firebase, Cloud services
+- Email: [shreyaspathak.ofc@gmail.com](mailto:shreyaspathak.ofc@gmail.com)
+- Portfolio: [shreyaspathak.com](https://shreyaspathak.com/)
+- Blogs: [blog.shreyaspathak.com](https://blog.shreyaspathak.com/)
 
-Let's connect at **[shreyaspathak.ofc@gmail.com](mailto:shreyaspathak.ofc@gmail.com)**
-Visit my portfolio at **[https://shreyaspathak.com](https://shreyaspathak.com/)**
-Read my Blogs at **[https://blog.shreyaspathak.com](https://blog.shreyaspathak.com/)**
+Always open to interesting ideas, collaborations, and conversations around software engineering and AI.
 
-I enjoy collaborating, learning, and building meaningful tech. If you're working on something interesting, let's talk.
